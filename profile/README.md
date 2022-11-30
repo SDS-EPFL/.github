@@ -1,3 +1,6 @@
-## Statistical Data Science Group
+## Chair of Statistical Data Science
 
-https://www.epfl.ch/labs/sds/
+held by [Prof. Sofia Olhede](https://people.epfl.ch/sofia.olhede).
+
+
+The Statistical Data Science (SDS) group is lead by professor Sofia Olhede. Data Science concerns the appropriate way to analyse and thus understand the large volumes of data that are being generated in most parts of society every minute. The SDS group is in particular interested in temporal, spatial and relational data. The group has developed methods to analyse large collections of oceanographic and geophysical data sets, as well as ecological data. Prof Olhede also has an interest in data taking the form of locations, as well as relational data (networks). The group has shown that any network can be well-approximated by using a model with a large number of groups, where all the members of a group interact the same way. The group also has a strong interest in data governance and data ethics.
