@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Statistical Data Science Group**
+## Statistical Data Science Group
 
 /profile/README.md
--->
