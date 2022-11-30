@@ -1,3 +1,3 @@
 ## Statistical Data Science Group
 
-/profile/README.md
+https://www.epfl.ch/labs/sds/
